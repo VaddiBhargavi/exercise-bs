@@ -1,0 +1,12 @@
+404.html
+*.xml
+doc/
+*.ico
+*.txt
+icon.png
+site.webmanifest
+tile.png
+tile-wide.png
+.editorconfig
+.gitattributes
+.htaccess
